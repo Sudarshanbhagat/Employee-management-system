@@ -1,3 +1,5 @@
+using System;
+
 namespace EMS.Data.DTOs
 {
     public class LeaveRequestDto
