@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace EMS.Common.Exceptions
 {
     public class NotFoundException : Exception
